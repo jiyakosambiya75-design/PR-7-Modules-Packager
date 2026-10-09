@@ -759,9 +759,6 @@ Before you submit, confirm:
 Explanation video: https://drive.google.com/file/d/16t-dO39Plo_GsJiFjYrb5WAuMD37dlXE/view?usp=drivesdk
 
 ---
-### 🌟 Thank you for exploring Multi-Utility Toolkit!
-
----
 
 🤝 Let's Connect I'd love to connect with fellow learners, developers, and Python enthusiasts! 💙
 
@@ -775,4 +772,11 @@ Explanation video: https://drive.google.com/file/d/16t-dO39Plo_GsJiFjYrb5WAuMD37
 Jiya Kosmbiya
 
 B.Sc. IT with AI & ML Specialization
+
+---
+
 **Keep coding. Keep learning. Keep creating.** 💻✨🐍
+
+---
+
+### 🌟 Thank you for exploring Multi-Utility Toolkit!
