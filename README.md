@@ -761,4 +761,18 @@ Explanation video: https://drive.google.com/file/d/16t-dO39Plo_GsJiFjYrb5WAuMD37
 ---
 ### 🌟 Thank you for exploring Multi-Utility Toolkit!
 
+---
+
+🤝 Let's Connect I'd love to connect with fellow learners, developers, and Python enthusiasts! 💙
+
+💼 LinkedIn 🔗 http://www.linkedin.com/in/jiya-kosambiya-86306141b
+
+📧 Email ✉️ jiyakosambiya75@gmail.com
+👩‍💻 Author
+
+--- 
+
+Jiya Kosmbiya
+
+B.Sc. IT with AI & ML Specialization
 **Keep coding. Keep learning. Keep creating.** 💻✨🐍
