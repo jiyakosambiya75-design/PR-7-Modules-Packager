@@ -754,7 +754,11 @@ Before you submit, confirm:
 -   [ ] Module exploration accepts a module name.
 -   [ ] Cache files are excluded from the ZIP.
 -   [ ] The final ZIP opens and contains the expected source files.
+---
 
+Explanation video: https://drive.google.com/file/d/16t-dO39Plo_GsJiFjYrb5WAuMD37dlXE/view?usp=drivesdk
+
+---
 ### 🌟 Thank you for exploring Multi-Utility Toolkit!
 
 **Keep coding. Keep learning. Keep creating.** 💻✨🐍
